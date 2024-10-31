@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Tabel</title>
+</head>
+<body>
+<table border="1" width="100%">
+	<tr>
+		<th width="5%">NO</th>
+		<th width="20%">Kelas</th>
+		<th width>Matakuliah</th>
+		<th width="5%">SKS</th>
+	</tr>
+	<tr>
+		<td>1</td>
+		<td>SI - V - A</td>
+		<td>Pemr web</td>
+		<td>4</td>
+	/<tr>
+</table>
+
+<table style="color:red" border="1" bgcolor="aqua" width="100%">
+	</tr>
+		<td colspan="2" height="50px" align="center">HEADER</td>
+	</tr>
+	<tr>
+		<td align="center" height="200px">SIDEBAR</td>
+		<td align="center">CONTENT</td>
+	</tr>
+	<tr>
+		<td colspan="2" align="center">FOOTER</td>
+	</tr>
+</table>
+
+</body>
+</html>
